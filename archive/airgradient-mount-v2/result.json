@@ -1,0 +1,76 @@
+{
+    "error_string": "Success.",
+    "export_time": 0,
+    "layer_height": 0.20000000298023224,
+    "plate_index": 0,
+    "prepare_time": 10,
+    "return_code": 0,
+    "sliced_plates": [
+        {
+            "feature_type_times": {
+                "Bottom surface": 2.638312816619873,
+                "Custom": 311.15423583984375,
+                "Flush": 29.0,
+                "Gap infill": 3.048464059829712,
+                "Inner wall": 38.761512756347656,
+                "Internal solid infill": 7.704649448394775,
+                "Outer wall": 20.323951721191406,
+                "Sparse infill": 0.7233054637908936,
+                "Top surface": 7.0003814697265625,
+                "Travel": 35.5985221862793,
+                "Undefined": 25.75255584716797
+            },
+            "filament_change_times": 0,
+            "filaments": [
+                {
+                    "filament_id": "GFA16",
+                    "id": 1,
+                    "main_used_g": 0.7808027267456055,
+                    "total_used_g": 0.7808027267456055
+                }
+            ],
+            "generate_support_material_time": 2,
+            "id": 1,
+            "infill_time": 7,
+            "layer_filament_change": 0,
+            "main_predication": 86.7978515625,
+            "make_perimeters_time": 13,
+            "obj_cached_cnt": 0,
+            "objects": [
+                {
+                    "bbox": {
+                        "depth": 23.19999885559082,
+                        "height": 2.4000000953674316,
+                        "width": 18.20000457763672,
+                        "x": 166.2383270263672,
+                        "y": 153.14308166503906,
+                        "z": 2.3162842754942403e-09
+                    },
+                    "id": 5,
+                    "name": "B-smooth-hook-2.4mm.stl",
+                    "triangle_count": 524
+                },
+                {
+                    "bbox": {
+                        "depth": 28.991384506225586,
+                        "height": 2.0,
+                        "width": 28.99138069152832,
+                        "x": 146.8948974609375,
+                        "y": 143.65689086914063,
+                        "z": 0.0
+                    },
+                    "id": 9,
+                    "name": "A-smooth-hook-2.0mm.stl",
+                    "triangle_count": 456
+                }
+            ],
+            "sliced_time": 84,
+            "sliced_time_with_cache": 56,
+            "total_predication": 446.1061096191406,
+            "triangle_count": 980,
+            "warning_message": ""
+        }
+    ],
+    "sparse_infill_density": 35.0,
+    "wall_loops": 5
+}

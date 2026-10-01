@@ -1,0 +1,1 @@
+Initial round, square and diamond friction-fit pegs and calibration plugs. Physical fit unconfirmed. The calibration 3MF contains geometry only; choose printer settings in Bambu Studio.

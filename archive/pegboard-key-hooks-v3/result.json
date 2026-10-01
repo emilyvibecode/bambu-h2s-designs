@@ -1,0 +1,76 @@
+{
+    "error_string": "Success.",
+    "export_time": 0,
+    "layer_height": 0.20000000298023224,
+    "plate_index": 0,
+    "prepare_time": 13,
+    "return_code": 0,
+    "sliced_plates": [
+        {
+            "feature_type_times": {
+                "Bottom surface": 3.6094272136688232,
+                "Custom": 310.96209716796875,
+                "Flush": 29.0,
+                "Gap infill": 15.200273513793945,
+                "Inner wall": 140.2954864501953,
+                "Internal solid infill": 12.024820327758789,
+                "Outer wall": 59.59598922729492,
+                "Sparse infill": 18.9186954498291,
+                "Top surface": 12.932463645935059,
+                "Travel": 73.47286224365234,
+                "Undefined": 63.80689239501953
+            },
+            "filament_change_times": 0,
+            "filaments": [
+                {
+                    "filament_id": "GFA16",
+                    "id": 1,
+                    "main_used_g": 2.9941952228546143,
+                    "total_used_g": 2.9941952228546143
+                }
+            ],
+            "generate_support_material_time": 6,
+            "id": 1,
+            "infill_time": 11,
+            "layer_filament_change": 0,
+            "main_predication": 307.0533752441406,
+            "make_perimeters_time": 48,
+            "obj_cached_cnt": 0,
+            "objects": [
+                {
+                    "bbox": {
+                        "depth": 43.62848663330078,
+                        "height": 6.0,
+                        "width": 43.62848663330078,
+                        "x": 161.23561096191406,
+                        "y": 136.17430114746094,
+                        "z": 0.0
+                    },
+                    "id": 5,
+                    "name": "B-key-hook-2.4mm-attachment.stl",
+                    "triangle_count": 1346
+                },
+                {
+                    "bbox": {
+                        "depth": 32.29999923706055,
+                        "height": 6.0,
+                        "width": 28.9999942779541,
+                        "x": 146.62449645996094,
+                        "y": 147.0056915283203,
+                        "z": 0.0
+                    },
+                    "id": 9,
+                    "name": "A-key-hook-2.0mm-attachment.stl",
+                    "triangle_count": 1180
+                }
+            ],
+            "sliced_time": 229,
+            "sliced_time_with_cache": 152,
+            "total_predication": 666.3494873046875,
+            "triangle_count": 2526,
+            "warning_message": ""
+        }
+    ],
+    "sparse_infill_density": 35.0,
+    "wall_loops": 5
+}

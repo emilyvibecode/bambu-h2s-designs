@@ -1,0 +1,32 @@
+{
+  "hook-test-board-3.2mm": {
+    "closed_manifold": true,
+    "volume_mm3": 962.93,
+    "solid_PLA_mass_g_at_1_24": 1.19,
+    "dimensions_mm": [
+      12.2,
+      41,
+      3.6
+    ]
+  },
+  "hook-test-board-4.8mm": {
+    "closed_manifold": true,
+    "volume_mm3": 1004.4,
+    "solid_PLA_mass_g_at_1_24": 1.25,
+    "dimensions_mm": [
+      13.8,
+      41,
+      3.6
+    ]
+  },
+  "hook-test-board-6.4mm": {
+    "closed_manifold": true,
+    "volume_mm3": 1045.87,
+    "solid_PLA_mass_g_at_1_24": 1.3,
+    "dimensions_mm": [
+      15.4,
+      41,
+      3.6
+    ]
+  }
+}

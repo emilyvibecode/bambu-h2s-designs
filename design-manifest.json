@@ -1,0 +1,312 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 69,
+    "sha256": "506c9630d14ef80d5d2322a19cfb92f21a64076638d92796ba9eacc2f3721720"
+  },
+  {
+    "path": "README.md",
+    "bytes": 2982,
+    "sha256": "73246ae96efff306532bea6b2c59b9e890f4dac78b32eac97212a93c60704eb3"
+  },
+  {
+    "path": "archive/airgradient-mount-v1/AirGradient-H2S-PLA-Wood.3mf",
+    "bytes": 35829,
+    "sha256": "c438fb599cf70f07ab50f36d53df692d1235c364bb75f479b71fb567ed9b3618"
+  },
+  {
+    "path": "archive/airgradient-mount-v1/AirGradient-H2S-PLA-Wood1.3mf",
+    "bytes": 35391,
+    "sha256": "b52e4c6c321319664c148ef65a08db0ec2eed7fb6687ba9a54d4d204e53637f5"
+  },
+  {
+    "path": "archive/airgradient-mount-v1/README.md",
+    "bytes": 5437,
+    "sha256": "1503161188da23c7ce01e80f8e9540395f49b4babc34a747318da48e24240bf4"
+  },
+  {
+    "path": "archive/airgradient-mount-v1/STATUS.txt",
+    "bytes": 159,
+    "sha256": "bcefb31b37d4a48a939eed4a59502b42998bb7fa0f91ec6557076a2f96607beb"
+  },
+  {
+    "path": "archive/airgradient-mount-v1/hook-test-board-3.2mm.scad",
+    "bytes": 447,
+    "sha256": "59e5187c5df16136f17bc82431162c82d8d8d3399831d698f7765be0da84fdd1"
+  },
+  {
+    "path": "archive/airgradient-mount-v1/hook-test-board-3.2mm.stl",
+    "bytes": 3684,
+    "sha256": "663c7182b2f5a54c2c021419b50dc1c59c82cf54bdc39157d5243bb50e695e30"
+  },
+  {
+    "path": "archive/airgradient-mount-v1/hook-test-board-4.8mm.scad",
+    "bytes": 417,
+    "sha256": "d1e9816baa87c5fc5b0a56de67ecf94d03c390aa382c03693312657fa1414d73"
+  },
+  {
+    "path": "archive/airgradient-mount-v1/hook-test-board-4.8mm.stl",
+    "bytes": 3684,
+    "sha256": "3865e3aad5a74dccdc89a2b1415b61c94ab0745a368c043b27678a762e13d870"
+  },
+  {
+    "path": "archive/airgradient-mount-v1/hook-test-board-6.4mm.scad",
+    "bytes": 518,
+    "sha256": "a49a7c1cb376afd7ee034de30e9c370a205fa332b7a51c343f875b5bd918c3b9"
+  },
+  {
+    "path": "archive/airgradient-mount-v1/hook-test-board-6.4mm.stl",
+    "bytes": 3684,
+    "sha256": "93eeaeb5a5d16cd7d4f1c66d9bae4e48b227b6de8fe7985760aae806f8e1b6bc"
+  },
+  {
+    "path": "archive/airgradient-mount-v1/hook-tests-all-three.3mf",
+    "bytes": 1857,
+    "sha256": "416b5fb07739b215218104c877e07bc269ce13037bdcaf514ea225faf4c386d1"
+  },
+  {
+    "path": "archive/airgradient-mount-v1/mesh-validation.json",
+    "bytes": 566,
+    "sha256": "e3dea047048fab87d977a4db7095614d85b052c1e20d794e3fd5ce243a82f8a8"
+  },
+  {
+    "path": "archive/airgradient-mount-v1/result.json",
+    "bytes": 207,
+    "sha256": "e218cecfb353c1ff3f3adc3701d87c9952faa51793858b297310ea66534e41b1"
+  },
+  {
+    "path": "archive/airgradient-mount-v2/A-smooth-hook-2.0mm.scad",
+    "bytes": 4546,
+    "sha256": "c365345ce42305ab1ca4bb846e22d062bbb2628b5df5d6ddf0139bdda14d4d64"
+  },
+  {
+    "path": "archive/airgradient-mount-v2/A-smooth-hook-2.0mm.stl",
+    "bytes": 91272,
+    "sha256": "7be883c72baaf683a16f4ca1478304164d5cbf4cc0581736d0f22544ccb9cba7"
+  },
+  {
+    "path": "archive/airgradient-mount-v2/AirGradient-v2-fit-tests-H2S-PLA-Wood.3mf",
+    "bytes": 36928,
+    "sha256": "724741688a218e2140a8c572f0c2e6f75dbc160ed14047b4b60d3b371c04633a"
+  },
+  {
+    "path": "archive/airgradient-mount-v2/B-smooth-hook-2.4mm.scad",
+    "bytes": 5205,
+    "sha256": "2b0a8c2b6092d2d2d820f1421d58c1d9e488a85318a268365026d4a422735149"
+  },
+  {
+    "path": "archive/airgradient-mount-v2/B-smooth-hook-2.4mm.stl",
+    "bytes": 106723,
+    "sha256": "bf558b3b1dd46ae9decbd3ee312514580b4ed5f3501999ca42246da41738a91d"
+  },
+  {
+    "path": "archive/airgradient-mount-v2/README.md",
+    "bytes": 3655,
+    "sha256": "0a9c68bc6c039e9a567ea0db6512679f2ad29e630caf7cb67380d1d52090d11d"
+  },
+  {
+    "path": "archive/airgradient-mount-v2/STATUS.txt",
+    "bytes": 128,
+    "sha256": "bb3445d9004cb866b5580d257c5a236a82dedceafed3d806ff24bbf3f6453891"
+  },
+  {
+    "path": "archive/airgradient-mount-v2/geometry-and-motion-check.json",
+    "bytes": 27101,
+    "sha256": "f806862fad7518dea9d3fc261da8fb774eb44287137b3f7d2d7ac13bc214c92d"
+  },
+  {
+    "path": "archive/airgradient-mount-v2/how-to-fit-v2.png",
+    "bytes": 34435,
+    "sha256": "3b97db16ac8bca38b4e057014af7046160ea03e5d74a9f20bf589ef6e40ac070"
+  },
+  {
+    "path": "archive/airgradient-mount-v2/result.json",
+    "bytes": 2664,
+    "sha256": "c5b4142554b7bd581af2d783299ab6f24391e352927bfa09b834e98b8eded905"
+  },
+  {
+    "path": "archive/pegboard-key-hooks-v3/A-key-hook-2.0mm-attachment.scad",
+    "bytes": 13514,
+    "sha256": "5251bc6c6f85d938a565ffbe562aee4e2372899411147b59bc03a68dd67c9e1f"
+  },
+  {
+    "path": "archive/pegboard-key-hooks-v3/A-key-hook-2.0mm-attachment.stl",
+    "bytes": 254681,
+    "sha256": "04f5791402763cd93552e2cf1017d20f5cd223972f6e780dc1349a6a445a555c"
+  },
+  {
+    "path": "archive/pegboard-key-hooks-v3/B-key-hook-2.4mm-attachment.scad",
+    "bytes": 14826,
+    "sha256": "3b067ad6eaedc0991e58a8d98d00bdeb73d8f4a9dff50f1dce61f4d2aadb1132"
+  },
+  {
+    "path": "archive/pegboard-key-hooks-v3/B-key-hook-2.4mm-attachment.stl",
+    "bytes": 313435,
+    "sha256": "9818ea4ad4f8647e603d3f67d23cb1f5787c408d78c097bcc65266c949d4c74b"
+  },
+  {
+    "path": "archive/pegboard-key-hooks-v3/Pegboard-key-hooks-v3-H2S-PLA-Wood.3mf",
+    "bytes": 53567,
+    "sha256": "d140ecdaf65e1662049ddc35cf62de54b133ad6da4e821766cd583bf69d17151"
+  },
+  {
+    "path": "archive/pegboard-key-hooks-v3/README.md",
+    "bytes": 3045,
+    "sha256": "6f7487b18be9731df54e2586700eb80e2c095025b819f604dfcf041ee74d3f2e"
+  },
+  {
+    "path": "archive/pegboard-key-hooks-v3/STATUS.txt",
+    "bytes": 149,
+    "sha256": "57bcfa4d3c38561e3e54d6d218cef28e062fbc36ac3abc41e59025eb1cef7427"
+  },
+  {
+    "path": "archive/pegboard-key-hooks-v3/geometry-and-motion-check.json",
+    "bytes": 60141,
+    "sha256": "8b8aa8ad9692910e2afac5e9860562642e1e204208a3822e4f816ccf2eb28dcc"
+  },
+  {
+    "path": "archive/pegboard-key-hooks-v3/key-hook-preview.png",
+    "bytes": 36316,
+    "sha256": "87e4739b7b7baa25e8b0983e78bb9731a44e891334178c9bf40eeda38a410e87"
+  },
+  {
+    "path": "archive/pegboard-key-hooks-v3/result.json",
+    "bytes": 2655,
+    "sha256": "f7d651c49dd6bc1e4ec06a095a216f3620d5111d9d381626af8a65c54ce14895"
+  },
+  {
+    "path": "archive/pegboard-peg-family-v1/README.md",
+    "bytes": 2288,
+    "sha256": "f8fa4e531b317b5f2efb9f7131a268e5b0c920eec6b7df4452aee0ce10859b23"
+  },
+  {
+    "path": "archive/pegboard-peg-family-v1/STATUS.txt",
+    "bytes": 186,
+    "sha256": "74148012b382f5543c4f2fe8965b61fe4250fb001991266dd72f10bbc65f9e53"
+  },
+  {
+    "path": "archive/pegboard-peg-family-v1/calibration-5.80mm.stl",
+    "bytes": 178419,
+    "sha256": "1ccfd127ee6b4bc28d300200e1cdc30c254fd43c1a0bc501194de0d2ad63d4b2"
+  },
+  {
+    "path": "archive/pegboard-peg-family-v1/calibration-5.95mm.stl",
+    "bytes": 179085,
+    "sha256": "161b4cfa273e0a4e487993fd0ef75addb1ba65f069ebeeb936d6703061e39c7c"
+  },
+  {
+    "path": "archive/pegboard-peg-family-v1/calibration-6.10mm.stl",
+    "bytes": 178532,
+    "sha256": "e7b1ddec38990c95644f2f5fd37761ad17b1084774fde0a51ed1f75836274bea"
+  },
+  {
+    "path": "archive/pegboard-peg-family-v1/calibration-6.25mm.stl",
+    "bytes": 178653,
+    "sha256": "2b266272864e78247dd339c1bb1585f8525c3380dfdd0d7dcca1e4cdcc9deba3"
+  },
+  {
+    "path": "archive/pegboard-peg-family-v1/calibration-6.40mm.stl",
+    "bytes": 178418,
+    "sha256": "f0d8809f57b13a6c6ef21e4f09e57831efcd75955b5e2b96b230504531a533c1"
+  },
+  {
+    "path": "archive/pegboard-peg-family-v1/calibration-all-five.3mf",
+    "bytes": 69190,
+    "sha256": "c092c0f40a58e04b9ab867581a3d4034111a7a3d519c991f2e79d9f328c5e1cc"
+  },
+  {
+    "path": "archive/pegboard-peg-family-v1/calibration-all-five.stl",
+    "bytes": 891581,
+    "sha256": "7fa3d97e91560128ea232126d999ec1da1923a0fa3840a403a5751965308b9fd"
+  },
+  {
+    "path": "archive/pegboard-peg-family-v1/peg-diamond-6.10mm.stl",
+    "bytes": 268098,
+    "sha256": "81ff80eb49418864e525fe43ace8e35c264e922dcb480f965d9d99f232fc4e4a"
+  },
+  {
+    "path": "archive/pegboard-peg-family-v1/peg-round-6.10mm.stl",
+    "bytes": 398980,
+    "sha256": "9fafb02fa71121befd04361ac493010fe43de3f182e59f2418be606b0de2616e"
+  },
+  {
+    "path": "archive/pegboard-peg-family-v1/peg-square-6.10mm.stl",
+    "bytes": 267713,
+    "sha256": "fea50a586c76c89f76073a71576ee6ffc9b4192deaa5305c134f40fce14fda13"
+  },
+  {
+    "path": "pegboard-design-1/PRINT-INSTRUCTIONS.txt",
+    "bytes": 3344,
+    "sha256": "20e72eca063931823cc5123961ea3c224ce848d957878759dffe4b5a3231e146"
+  },
+  {
+    "path": "pegboard-design-1/README.md",
+    "bytes": 1615,
+    "sha256": "d9fac5a540aec329ed67ce969962383a8cd656e9e62ccd8063acae518f0ec191"
+  },
+  {
+    "path": "pegboard-design-1/generate.py",
+    "bytes": 8806,
+    "sha256": "6088524184fbf483c7ee65119ca56bf1eecda70e24ad993a21ad99d15140c398"
+  },
+  {
+    "path": "pegboard-design-1/geometry-and-motion-check.json",
+    "bytes": 36489,
+    "sha256": "81817013622bc52813e4a51d98daab74710d33db09820aac803f1adba1acb44e"
+  },
+  {
+    "path": "pegboard-design-1/pegboard-design-1-H2S-PLA-Wood.3mf",
+    "bytes": 509031,
+    "sha256": "d4eb750d0a6f4514dd05507a5ca67bb00bd028ceeeb1e1555494fc49c0fbe8cb"
+  },
+  {
+    "path": "pegboard-design-1/pegboard-design-1.scad",
+    "bytes": 623501,
+    "sha256": "fce583a5bf686f746985979056e8f59771d3390bdaf306540f3acfef641fd35c"
+  },
+  {
+    "path": "pegboard-design-1/pegboard-design-1.stl",
+    "bytes": 11915251,
+    "sha256": "cb3f7209795ef237a28569553fadd289322621d8a88235ba6c625df761143506"
+  },
+  {
+    "path": "pegboard-design-1/preview.png",
+    "bytes": 74270,
+    "sha256": "0586415f854b4e259fff6c837c6bced7f39939f6042581cadf3d1689513c2fcb"
+  },
+  {
+    "path": "pegboard-design-1/research.json",
+    "bytes": 3157,
+    "sha256": "22d3ce507ee1e66e4f2066c588a6fef2c49b9972caa1bb709dc51c006dda9d7b"
+  },
+  {
+    "path": "pegboard-design-1/slice-result.json",
+    "bytes": 2187,
+    "sha256": "994bd70add87774ad093d09545956ecfab9299ce27f5bb82f57048e99230b7eb"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 83,
+    "sha256": "7718eb91decae745a46f76e9ea476238e69ae576dd9efd5a4dcdf41a76e18aa7"
+  },
+  {
+    "path": "work/design_hook_v2.py",
+    "bytes": 3880,
+    "sha256": "c9357b0bf4c30c6fb7bd5c5cf1f4ecd9694fa8b0a668066f109e01d12c94734f"
+  },
+  {
+    "path": "work/design_key_hooks_v3.py",
+    "bytes": 3843,
+    "sha256": "230a817236c8cc48e7577a7df2bc5d08457f7d201dd6a01d5328e0effcd0d60c"
+  },
+  {
+    "path": "work/generate_airgradient_hook_tests.py",
+    "bytes": 4709,
+    "sha256": "9632860bf6de2d69b417be501002a5802d63b8be50574ca282bbaa2af9d85ef0"
+  },
+  {
+    "path": "work/generate_pegboard_peg_family.py",
+    "bytes": 6540,
+    "sha256": "30ef4b11fc5e44d7c18dcfd29742b98b16bf5e8bf07e6ecba3ecbedc26865454"
+  }
+]

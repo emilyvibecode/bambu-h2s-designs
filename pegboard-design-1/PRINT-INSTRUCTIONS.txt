@@ -1,0 +1,64 @@
+VERSION 4 — SLANTED PEGBOARD KEY HOOK
+
+OPEN THIS FILE IN BAMBU STUDIO
+pegboard-design-1-H2S-PLA-Wood.3mf
+Open as a project and retain its settings. This is a configured Bambu project.
+
+ALREADY SET
+Your stock Bambu H2S, 0.4 mm nozzle, Textured PEI Plate, Bambu PLA Wood.
+0.20 mm layers, five walls, 35% gyroid, five top/bottom layers.
+Flat side down. Supports off. Brim off. Prime tower off. One color.
+
+NEXT
+Click Slice Plate, review the preview, then Print Plate.
+In the send dialog, choose the slot containing your PLA Wood Clay Brown.
+Keep automatic bed leveling enabled. No print has been started for you.
+The saved project was reopened and sliced successfully: about 8 min 38 sec,
+1.65 g model filament, zero filament changes, no plate warnings.
+Actual time and purge filament use can vary.
+
+FIT
+Allow the plate to cool, then remove the hook.
+Use two holes directly above/below each other, one inch apart.
+Choose a spot with at least 8 mm of empty space behind the board.
+Tip the bottom toward yourself roughly 15 degrees. Guide the upper slanted
+end through the top hole, feed it in, align the lower pin, then straighten.
+See preview.png. Do not force the lower pin if it does not align.
+First try a few keys near the board and inspect for movement or cracking.
+This is a fit prototype with no verified load rating. Its fit must be tested
+on your actual board before the attachment is used for an AirGradient mount.
+
+WHAT CHANGED
+Old B peg: 2.4 mm square and a 90-degree upward return.
+New peg: 4.8 mm rounded cross section, 45-degree slanted terminal tip,
+3 mm centerline blend radius and a 3.4 mm tapered end.
+The lower 5.6 mm locating pin should reduce swivel. It is not a demonstrated
+commercial cam lock. Main body is about 4.4 mm deep; front reach is 18.2 mm.
+Round sections are clipped to a flat printing face and represented in
+0.1 mm height bands. Actual print height is approximately 4.405 mm.
+
+CHECKS
+One connected, watertight solid with consistent winding and positive volume.
+704 sampled insertion poses across 44 cross-section bands, including tapered
+pins and the front body. Modeled board is 6.55 mm thick with 6.25 mm round
+holes: slightly thicker/smaller than nominal 6.35 mm dimensions.
+Minimum modeled clearance is about 0.068 mm. A displacement bound between
+samples remains positive, but this does not account for printer tolerances,
+board manufacturing variation, friction, flex, retention or strength.
+Simulation needs about 6.31 mm clearance behind the board; use 8 mm in practice.
+
+RESEARCH
+Amazon listing snapshots showed the INCLY assortment at #1 and the INCLY
+heavy-duty set at #5 in Pegboard Hooks. The latter publishes a 5.08 mm steel
+diameter; the #1 kit includes peg locks. Neither publishes its exact upper
+bend angle or complete mounting dimensions. The new shape is a dimensioned
+adaptation of those principles, not a claimed exact copy.
+Sources and design choices: research.json.
+Editable source: pegboard-design-1.scad.
+Generator: generate.py. Motion report: geometry-and-motion-check.json.
+The separate STL is geometry only; use the .3mf above for the printer settings.
+
+CLI DIAGNOSTIC
+Bambu Studio logs an Invalid T command (T65535) while parsing the bundled
+manufacturer end sequence. Its saved-project slice result reports Success,
+return code 0, and no plate warnings. See slice-result.json.

@@ -1,0 +1,71 @@
+{
+  "researched_on": "2026-10-01",
+  "rank_note": "Ranks are retrieved listing snapshots, not a complete live sales audit. Category bestseller pages were unavailable. No exact upper angle was published for the researched Amazon products.",
+  "sources": [
+    {
+      "title": "INCLY 120-piece assortment",
+      "url": "https://www.amazon.com/dp/B0F28YTRDV",
+      "retrieved_category_rank": 1,
+      "category": "Pegboard Hooks",
+      "published_facts": [
+        "Includes 49 peg locks to fix hooks",
+        "One-inch hole spacing; uses locks to improve fit on quarter-inch boards"
+      ],
+      "unpublished": [
+        "upper mounting angle",
+        "bend radius",
+        "mounting neck length",
+        "wire diameter"
+      ]
+    },
+    {
+      "title": "INCLY 60-pack heavy-duty steel hooks",
+      "url": "https://www.amazon.com/dp/B0CP8S4K4M",
+      "retrieved_category_rank": 5,
+      "category": "Pegboard Hooks",
+      "published_facts": [
+        "0.2-inch / 5.08 mm steel diameter",
+        "Quarter-inch holes and one-inch centers"
+      ],
+      "unpublished": [
+        "upper mounting angle",
+        "bend radius",
+        "mounting neck length"
+      ]
+    },
+    {
+      "title": "WallPeg manufacturer FAQ",
+      "url": "https://wallpegstore.com/faq-pegboards-hooks/",
+      "published_facts": [
+        "Lower prong uses a 3-degree offset for its proprietary cam-lock mechanism"
+      ],
+      "interpretation": "This is the lower prong angle, not an upper entry angle. Our lower pin is a locating feature; no equivalent cam-lock force is claimed."
+    },
+    {
+      "title": "Pegboard hook technical patent, Fig. 3",
+      "url": "https://patents.google.com/patent/US20050056745A1/en",
+      "published_facts": [
+        "Angled terminal leg, 120-degree included angle to the forward horizontal, equivalent to 60 degrees above rearward horizontal",
+        "Neck length slightly exceeds board thickness",
+        "Insert terminal leg with hook tilted, then push and rotate into position"
+      ],
+      "interpretation": "The patent describes a separate design. No evidence connects its dimensions or angle to either Amazon product."
+    },
+    {
+      "title": "Triton TPB-4N board",
+      "url": "https://www.homedepot.com/p/Triton-Products-24-In-H-x-48-In-W-x-1-4-in-D-Heavy-Duty-HDF-Round-Hole-Pegboards-Natural-4-Pack-TPB-4N/329428326",
+      "published_facts": [
+        "Nominal 1/4-inch board thickness and round holes"
+      ]
+    }
+  ],
+  "design_decisions": [
+    "4.8 mm rounded upper section, slightly below the published 5.08 mm steel diameter to allow printed fit tolerance",
+    "A 45-degree terminal tip with a 3 mm centerline blend radius; chosen after insertion motion checks, not copied from unpublished Amazon dimensions",
+    "6.7 mm neck distance to the start of the bend, for nominal 6.35 mm board",
+    "3.4 mm tapered terminal diameter for easier entry",
+    "5.6 mm lower locating pin, 4.8 mm reach, one inch below upper peg, 3-degree offset",
+    "4.4 mm body depth with flat printing face; original front key hook retained",
+    "No commercial steel load rating applies to this PLA prototype"
+  ]
+}
